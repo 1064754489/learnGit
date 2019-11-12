@@ -6,4 +6,6 @@ Fish
 Bride
 Water
 new branch
+<<<<<<< HEAD
 Merge err
+fix bug
