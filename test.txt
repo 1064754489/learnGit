@@ -6,7 +6,6 @@ Fish
 Bride
 Water
 new branch
-<<<<<<< HEAD
 Merge err
 fix bug
-Gai dong by user1
+Gai dong by merge
